@@ -29,6 +29,6 @@ Bibtex:
   month        = {aug},
 }
 
-Reference (text):
+Reference (text, APA 7th):
 
 Enilda Velazquez, N. R. (2024, August). Aerial_clutter_multitarget_search. https://github.com/enildavelazquez/aerial_clutter_multitarget_search
